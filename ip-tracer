@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+# Tool Name :- IP-Tracer-Pro
+# Codename :- poisk-ls
+# Date :- 08-08-2001
+case "$1" in
+  -m)
+    php modules/.tracem.php
+  ;;
+  -t)
+    case "$#" in
+    2)
+      php modules/.traceip.php $2
+    ;;
+    *)
+      echo "error : invalid arguments !!"
+      echo "use: ip-tracer-pro -t <target_ip>"
+    ;;
+    esac
+  ;;
+  -u)
+    php modules/.update.php
+    exit
+  ;;
+  update)
+    php modules/.update.php
+    exit
+  ;;
+  start)
+    php .IP-Tracer-Pro.php
+    exit
+  ;;
+  -rm)
+    php modules/.uninstall.php
+    exit
+  ;;
+  *)
+    echo "Usage: ip-tracer-pro [command]... [arguments]..."
+    echo " Commands:"
+    echo " -t <target_ip>      to trace target ip."
+    echo " -m                  to trace your own ip."
+    echo " -h                  to show help."
+    echo " -u                  to update ip-tracer-pro."
+    echo " help                to show help."
+    echo " update              to update ip-tracer-pro."
+    echo " start               to start ip-tracer-pro menu."
+esac
