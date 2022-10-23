@@ -1,0 +1,10 @@
+# Tool Name :- IP-Tracer-Pro
+# Codename :- poisk-ls
+# Date :- 08-08-2001
+if [ -d /data/data/com.termux/files/usr/share ];then
+  cd /data/data/com.termux/files/usr/share/IP-Tracer-Pro
+  exec bash trace $@
+elif [ -d /usr/share ];then
+  cd /usr/share/IP-Tracer-Pro
+  exec bash trace $@
+fi
