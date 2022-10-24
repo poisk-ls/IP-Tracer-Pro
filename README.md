@@ -1,8 +1,8 @@
-## What is IP-Tracer-Pro ?
+## What is IP-Tracer-Pro?
 
 IP-Tracer-Pro is a tool that used to track an ip address. IP-Tracer-Pro is developed for Termux and Linux based systems. Where you can easily retrieve ip address information using IP-Tracer-Pro. IP-Tracer-Pro use ip-api to track ip address.
 
-### How to install IP-Tracer-Pro ?
+### How to install IP-Tracer-Pro?
 
 * apt update
 
@@ -17,7 +17,7 @@ IP-Tracer-Pro is a tool that used to track an ip address. IP-Tracer-Pro is devel
 * sh install or ./install
 
 
-## How to use IP-Tracer-Pro
+## cmd to use IP-Tracer-Pro
 
 * trace -m to track your own ip address.
 
