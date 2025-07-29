@@ -26,8 +26,7 @@ IP-Tracer-Pro is a tool that used to track an ip address. IP-Tracer-Pro is devel
 - ip-tracer-pro for more information.
 
 **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7D628&center=false&width=435&lines=...enjoy!!)](https://git.io/typing-svg)**
-#### ____________________________________
->
+#
 >**Follow for more: https://github.com/poisk-ls**
 >
 >**Direct inbox:**
@@ -45,8 +44,6 @@ IP-Tracer-Pro is a tool that used to track an ip address. IP-Tracer-Pro is devel
 ><a href="https://t.me/poisLs"><img src="https://img.shields.io/badge/telegram-poiskLs-blue.svg">
 >
 ><a href="https://www.buymeacoffee.com/bsit3sbuhaY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
-
-
-####  ___________________________________
+#
 ![Alt text](https://github.com/poisk-ls/poisk-ls/blob/main/My%20Database%20Work/gif/120407.gif)
-#### ____________________________________
+#
